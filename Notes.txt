@@ -1,0 +1,2 @@
+- All the static files are stored in public folder
+- Actual dynamic files are store in src folder
